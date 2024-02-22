@@ -9,15 +9,7 @@ import geopandas as gpd
 from folium import plugins
 
 
-#10 countrys with more billionaires
-#10 countrys with more money
-#10 industrys with more billionaires
-#10 industrys with more money
-#pie chart industrys
-#pie chart countrys
-#mapa del mundo heatmap de acuerdo al conteo de billonarios.
-
-
+#Page Settings
 st.set_page_config(page_title="Distribution_Billionaires - Analysis",
                    page_icon="bar_chart:",
                    layout="wide")
