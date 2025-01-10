@@ -21,7 +21,7 @@ You can access to the interactive dashboard at the following link: https://distr
 ## Project description and objective
 
 
-This project analyzed a database containing information about the 500 wealthiest people in the world, including their wealth, location, and industry. The purpose was to identify patterns and trends in global wealth distribution, as well as to better understand the dynamics of the global economy and the impact of individual fortunes on different sectors and industries
+This project analyzed a database containing information about the 500 wealthiest people in the world, including their wealth, location, and industry. The purpose was to identify patterns and trends in global wealth distribution, as well as to better understand the dynamics of the global economy and the impact of individual fortunes on different sectors and industries.
 
 The project aimed to answer the following specific question:
 
