@@ -22,7 +22,7 @@ richest_people = pd.read_csv("500_richest_people_2021_clean.csv")
 country_counts = richest_people['Country'].value_counts().reset_index()
 country_counts.columns = ['Country', 'Count']
 
-# Create the country_money DataFrame
+# Create the country_money DataFrame:
 country_money = richest_people.groupby('Country')['Total_Networth_Billions'].sum().reset_index()
 country_money.columns = ['Country', 'Total_Networth_Billions']
 # Sort the DataFrame in descending order by 'Total_Networth_Billions'
