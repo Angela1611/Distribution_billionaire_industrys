@@ -133,7 +133,7 @@ if category == "Countrys" and feature == "With more money":
                 labels={'Total_Networth_Billions': 'Total Net Worth (Billions)', 'Country': 'Country'},
                 )
 
-    # Update the layout to customize the chart appearance
+    ## Update the layout to customize the chart appearance
     fig.update_layout(xaxis_title='Country', yaxis_title='Total Net Worth (Billions)',
                     yaxis_tickformat='$.2f',  # Format y-axis as currency with 2 decimal places
                     )
