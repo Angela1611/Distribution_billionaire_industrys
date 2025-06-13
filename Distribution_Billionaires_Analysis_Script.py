@@ -15,7 +15,7 @@ st.set_page_config(page_title="Distribution_Billionaires - Analysis",
                    layout="wide")
 
 
-# Read the CSV file into a DataFrame
+# Read the CSV file into a DataFrame:
 richest_people = pd.read_csv("500_richest_people_2021_clean.csv")
 
 # Create a new DataFrame with the count of each value in the 'Country' column
